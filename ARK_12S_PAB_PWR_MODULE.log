@@ -1,0 +1,1045 @@
+﻿STEP to UG
+! INFO-     NX STEP AP214 - V2406.1700
+! INFO-      
+! INFO-     Start of Translation: 15-SEP-2025  3:11:31 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\andre\Downloads\ARK_12S_PAB_Power_Module_Rev_1.0.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Open CASCADE Model
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        Open CASCADE Shape Model
+! SUMMARY-  Date             2024-08-12T17:47:35
+! SUMMARY-  Author           Author
+! SUMMARY-  Organization     Open CASCADE
+! SUMMARY-  Pre_Version      Open CASCADE STEP processor 7.5
+! SUMMARY-  Orig_System      Open CASCADE 7.5
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:     25
+! SUMMARY-  advanced_face ..............................................:   1541
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   2034
+! SUMMARY-  b_spline_curve_with_knots ..................................:    174
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:      8
+! SUMMARY-  b_spline_surface_with_knots ................................:     59
+! SUMMARY-  cartesian_point ............................................:  12120
+! SUMMARY-  circle .....................................................:    378
+! SUMMARY-  closed_shell ...............................................:     78
+! SUMMARY-  context_dependent_shape_representation .....................:    165
+! SUMMARY-  cylindrical_surface ........................................:    242
+! SUMMARY-  direction ..................................................:   7290
+! SUMMARY-  edge_curve .................................................:   3755
+! SUMMARY-  edge_loop ..................................................:   1555
+! SUMMARY-  ellipse ....................................................:      8
+! SUMMARY-  face_bound .................................................:   1555
+! SUMMARY-  geometric_curve_set ........................................:      9
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     96
+! SUMMARY-  item_defined_transformation ................................:    165
+! SUMMARY-  length_unit_and_si_unit ....................................:     96
+! SUMMARY-  line .......................................................:   3222
+! SUMMARY-  manifold_solid_brep ........................................:     78
+! SUMMARY-  next_assembly_usage_occurrence .............................:    165
+! SUMMARY-  oriented_edge ..............................................:   7510
+! SUMMARY-  plane ......................................................:   1184
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:     96
+! SUMMARY-  product ....................................................:     96
+! SUMMARY-  product_context ............................................:     96
+! SUMMARY-  product_definition .........................................:     96
+! SUMMARY-  product_definition_context .................................:     96
+! SUMMARY-  product_definition_formation ...............................:     96
+! SUMMARY-  product_definition_shape ...................................:    261
+! SUMMARY-  product_related_product_category ...........................:     96
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:    165
+! SUMMARY-  shape_representation .......................................:     71
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:     96
+! SUMMARY-  spherical_surface ..........................................:     56
+! SUMMARY-  trimmed_curve ..............................................:     35
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     96
+! SUMMARY-  vector .....................................................:   3222
+! SUMMARY-  vertex_point ...............................................:   2362
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          50549
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 15-SEP-2025 3:11:31 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Extruded50173
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Extruded49981
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Extruded49725
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Extruded49533
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 6.8 3.2.149108
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 6.8 3.1.2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 6.8 3.1.148139
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\SML-D12x1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 7.5 1.27.1.2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Line ........................:    35
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             35
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:34 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 7.5 1.27.1.1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7113059168
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Mark
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 6.8 3.2.1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Mid_Body
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\SOP10P50_300X490X110L55X22N
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    11
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             11
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7113056688
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    38
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             38
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Leader
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 6.8 2.1.112299
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\lead12042
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 6.8 2.1.1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Lead
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 6.8 3.1.1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\SW3dPS-0603 SMD Capacitor
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:35 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\0402 cap
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:36 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Extruded1288
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:36 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Extruded1091
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:36 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Extruded776
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:36 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Extruded
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:36 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Open CASCADE STEP translator 7.5 1.1.1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:36 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C1ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:36 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C2ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:36 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Mid_Body49098
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:36 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Terminal48125
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:37 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7113063888
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:37 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C3ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:37 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C4ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:37 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C5ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:37 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C6ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:37 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C7ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\8351245456
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7120161344
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C8ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C9ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C10ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C11ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\8351244256
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\8351244416
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C12ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:38 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C13ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:39 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C14ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:39 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C15ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:39 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C16ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:39 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C17ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:39 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C18ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:39 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\D1ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:39 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\5024940670_RGB8421504
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:40 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\J2ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:40 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\L1ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:40 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7120162384
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:40 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7120162144
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R1ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Terminal
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7113052768
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R2ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R3ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R4ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7120162784
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7120163024
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R6ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R8ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R9ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:41 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R10ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:42 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R11ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:42 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R13ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:42 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\U1ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:42 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\U2ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:43 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Body12289
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:43 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7057019424
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     6
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              6
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:43 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\U3ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:44 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Body10673
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:44 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7113061888
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:44 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\D2ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:44 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C23ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:44 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\Body
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:44 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\7113066048
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:45 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C24ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:45 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C25ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:45 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\C26ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:45 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R14ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:45 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R15ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:45 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R16ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:45 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R17ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:45 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R18ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:46 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\R19ARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:46 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\BoardARK_12S_Power_Module
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 15-SEP-2025  3:11:46 PM
+! INFO-     Filing Part ..: C:\Users\andre\Documents\Senior Design\ARK_12S_PAB_PWR_MODULE.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:    46
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             46
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        78
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        78
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 15-SEP-2025  3:11:50 PM
+! INFO-      
